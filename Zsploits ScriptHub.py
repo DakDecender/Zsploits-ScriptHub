@@ -22,7 +22,7 @@ def main():
         elif choice == "2":
             print("Exploits:") 
             # Add more exploit links here 
-            print("1. Fluxis - https://fluxteam.net/") 
+            print("1. Fluxus - https://fluxteam.net/") 
             print("2. Vega X - https://www.vegax.gg/") 
             print("3. Delta - https://deltaexploits.com/") 
             print("More Coming Soon...")
